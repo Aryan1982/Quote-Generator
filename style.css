@@ -86,6 +86,13 @@ button:active{
 		margin: auto 10px;
 	}
 	.quote-text{
-		font-size: 2.5rem;
+		font-size: 1.2rem;
+
 	}
+	.quote-author{
+		font-size: 1.5rem;
+	}
+	.fa-quote-left{
+	font-size: 2.5rem;
+}
 }
